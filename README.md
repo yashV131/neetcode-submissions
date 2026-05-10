@@ -4,10 +4,11 @@
 This repository serves as a record of my journey through Data Structures and Algorithms. 
 
 As I progress through the NeetCode roadmap, I’m focused on
- > Consistency: Solving problems daily to build muscle memory for common patterns.
- > Deep Dives: Moving beyond just "solving" to understanding time and space complexity (O(n) analysis) for every approach.
- > Continuous Improvement: Refined solutions are synced periodically as I learn more efficient techniques and language-specific optimizations.
-
+'''
+ -> Consistency: Solving problems daily to build muscle memory for common patterns.
+ -> Deep Dives: Moving beyond just "solving" to understanding time and space complexity (O(n) analysis) for every approach.
+ -> Continuous Improvement: Refined solutions are synced periodically as I learn more efficient techniques and language-specific optimizations.
+'''
 ---
 
 ## What is Neetcode?
